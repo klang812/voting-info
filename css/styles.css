@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+#voting-page  {
+  display: none;
+}
+
+#under-18 {
+  display: none;
+}
